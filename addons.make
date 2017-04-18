@@ -1,4 +1,0 @@
-ofxGui
-ofxIO
-ofxSerial
-ofxXmlSettings
